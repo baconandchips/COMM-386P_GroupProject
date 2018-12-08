@@ -128,7 +128,7 @@ void loop() {
     if (thresholdAchieved) {
       lightHelper(100, 200, 0);
       // play song!
-      void playPowerup(); // smile++
+      // void playPowerup(); // smile++
       delay(3200);
       tone(8, NOTE_E6, 125);
       delay(130);
