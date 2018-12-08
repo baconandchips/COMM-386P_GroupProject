@@ -7,6 +7,7 @@
 
    Now: regular functions with delay() implemented when needed. Let x be the distance of an object. When photocell below threshold: if 80cm<x<150cm,
      show red light; if 10cm<x<80cm, show green light; if x<10cm, make sound. We had major remake of codebase! See v2 for other implementation, which is 85% complete
+   
    References listed below:
    [1]: https://circuitdigest.com/microcontroller-projects/playing-melodies-on-piezo-buzzer-using-arduino-tone-function
    ^ basically only used their function names, and the header for pitches. Self-designed melodies.
