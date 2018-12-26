@@ -1,6 +1,5 @@
 /*
-   PROJECT CODE FOR COMM 386P FINAL PROJECT
-   Copyright Guanting, Pammy, Mica, Marco and Nick
+   PROJECT CODE FOR CUP OF JOY
 
    Previously: (Added multitasking abilities- please read Motor.h! Kinda proud of it, it's 100% designed from scratch by yours truly
      Basically, everything below (apart from pitches.h, and the contents of isAtThrehold() and titanic()) are made from scratch)
